@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "masstransit_polymorphic_deserialization": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
